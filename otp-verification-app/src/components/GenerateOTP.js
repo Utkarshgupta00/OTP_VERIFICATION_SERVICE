@@ -22,6 +22,11 @@ const GenerateOTP = () => {
 
   const handleGenerateOTP = async () => {
     try {
+
+      // Navigate to VerifyOTP page with email as a query parameter
+      setTimeout(() => {
+        navigate(`/verify?email=${email}`);
+      }, 2000)
       setLoading(true);
 
       // Validate email format
@@ -44,10 +49,10 @@ const GenerateOTP = () => {
 
 
 
-      // Navigate to VerifyOTP page with email as a query parameter
-      setTimeout(() => {
-        navigate(`/verify?email=${email}`);
-      }, 2000)
+      // // Navigate to VerifyOTP page with email as a query parameter
+      // setTimeout(() => {
+      //   navigate(`/verify?email=${email}`);
+      // }, 2000)
 
       if (!response.ok) {
         console.error('Failed to generate OTP. Status:', response.status);

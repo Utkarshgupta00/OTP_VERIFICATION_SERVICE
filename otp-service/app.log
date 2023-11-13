@@ -1,0 +1,470 @@
+2023-11-11T17:42:34.758Z [ERROR] MongooseError: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2023-11-11T17:59:49.202Z [ERROR] MongooseError: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2023-11-11T18:00:22.289Z [ERROR] MongooseError: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2023-11-11T18:02:06.655Z [ERROR] MongoParseError: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"
+2023-11-11T18:03:28.259Z [INFO] 🚀 Connected to MongoDB
+2023-11-11T18:09:53.712Z [INFO] 🚀 Connected to MongoDB
+2023-11-11T18:23:16.159Z [ERROR] Invalid email
+2023-11-11T18:23:20.187Z [ERROR] Invalid email
+2023-11-11T18:23:36.581Z [ERROR] Invalid email
+2023-11-11T18:23:47.410Z [ERROR] Failed to generate OTP
+2023-11-11T18:23:47.411Z [ERROR] Failed to generate OTP
+2023-11-11T18:23:54.128Z [ERROR] Failed to generate OTP
+2023-11-11T18:23:54.129Z [ERROR] Failed to generate OTP
+2023-11-11T18:24:23.624Z [ERROR] Invalid email
+2023-11-11T18:24:55.131Z [ERROR] Failed to generate OTP
+2023-11-11T18:24:55.131Z [ERROR] Failed to generate OTP
+2023-11-11T18:27:58.259Z [ERROR] MongooseError: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2023-11-11T18:28:54.196Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T05:51:56.051Z [ERROR] Failed to generate OTP
+2023-11-12T05:51:56.051Z [ERROR] Failed to generate OTP
+2023-11-12T05:59:13.195Z [ERROR] Failed to generate OTP
+2023-11-12T05:59:13.196Z [ERROR] Failed to generate OTP
+2023-11-12T06:00:41.541Z [ERROR] Failed to generate OTP
+2023-11-12T06:00:41.541Z [ERROR] Failed to generate OTP
+2023-11-12T06:01:07.351Z [ERROR] Failed to generate OTP
+2023-11-12T06:01:07.351Z [ERROR] Failed to generate OTP
+2023-11-12T06:03:19.298Z [ERROR] Invalid email
+2023-11-12T06:03:33.906Z [ERROR] Failed to generate OTP
+2023-11-12T06:03:33.907Z [ERROR] Failed to generate OTP
+2023-11-12T06:04:44.231Z [ERROR] Invalid email
+2023-11-12T06:18:56.476Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T06:19:51.563Z [ERROR] Invalid email
+2023-11-12T06:20:18.267Z [ERROR] Failed to generate OTP
+2023-11-12T06:20:18.267Z [ERROR] Failed to generate OTP
+2023-11-12T06:22:20.416Z [ERROR] Failed to generate OTP
+2023-11-12T06:22:20.416Z [ERROR] Failed to generate OTP
+2023-11-12T06:23:56.224Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T06:26:29.759Z [ERROR] Failed to generate OTP
+2023-11-12T06:26:29.759Z [ERROR] Failed to generate OTP
+2023-11-12T06:32:32.875Z [ERROR] Failed to generate OTP
+2023-11-12T06:32:32.875Z [ERROR] Failed to generate OTP
+2023-11-12T06:32:46.349Z [ERROR] Failed to generate OTP
+2023-11-12T06:32:46.350Z [ERROR] Failed to generate OTP
+2023-11-12T06:33:28.215Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T06:33:35.534Z [ERROR] Failed to generate OTP
+2023-11-12T06:33:35.536Z [ERROR] Failed to generate OTP
+2023-11-12T06:36:20.291Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T06:36:33.982Z [ERROR] Failed to generate OTP
+2023-11-12T06:36:33.984Z [ERROR] Failed to generate OTP
+2023-11-12T06:38:38.378Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T06:40:27.052Z [ERROR] Failed to generate OTP
+2023-11-12T06:40:27.053Z [ERROR] Failed to generate OTP
+2023-11-12T06:43:39.612Z [ERROR] Invalid email
+2023-11-12T06:45:20.206Z [ERROR] Invalid email
+2023-11-12T06:45:29.719Z [ERROR] Failed to generate OTP
+2023-11-12T06:45:29.721Z [ERROR] Failed to generate OTP
+2023-11-12T06:47:04.529Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T06:47:19.274Z [ERROR] Failed to generate OTP
+2023-11-12T06:47:19.277Z [ERROR] Failed to generate OTP
+2023-11-12T06:49:50.575Z [ERROR] Failed to generate OTP
+2023-11-12T06:49:50.578Z [ERROR] Failed to generate OTP
+2023-11-12T06:49:58.847Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T06:50:04.328Z [ERROR] Failed to generate OTP
+2023-11-12T06:50:04.331Z [ERROR] Failed to generate OTP
+2023-11-12T06:50:53.248Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T06:51:06.082Z [ERROR] Failed to generate OTP
+2023-11-12T06:51:06.085Z [ERROR] Failed to generate OTP
+2023-11-12T06:55:49.760Z [ERROR] Failed to generate OTP
+2023-11-12T06:55:49.761Z [ERROR] Failed to generate OTP
+2023-11-12T06:56:34.616Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T06:56:35.013Z [ERROR] Failed to generate OTP
+2023-11-12T06:56:35.018Z [ERROR] Failed to generate OTP
+2023-11-12T06:56:50.476Z [ERROR] Failed to generate OTP
+2023-11-12T06:56:50.480Z [ERROR] Failed to generate OTP
+2023-11-12T06:58:32.156Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T06:58:34.521Z [ERROR] Failed to generate OTP
+2023-11-12T06:58:34.524Z [ERROR] Failed to generate OTP
+2023-11-12T07:00:51.644Z [ERROR] Failed to generate OTP
+2023-11-12T07:00:51.648Z [ERROR] Failed to generate OTP
+2023-11-12T07:09:02.263Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T07:09:17.459Z [ERROR] Failed to generate OTP
+2023-11-12T07:09:17.464Z [ERROR] Failed to generate OTP
+2023-11-12T07:09:54.825Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T07:09:56.871Z [ERROR] Failed to generate OTP
+2023-11-12T07:09:56.876Z [ERROR] Failed to generate OTP
+2023-11-12T07:12:50.769Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T07:13:07.286Z [ERROR] Failed to generate OTP
+2023-11-12T07:13:07.289Z [ERROR] Failed to generate OTP
+2023-11-12T07:15:00.434Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T07:15:10.591Z [ERROR] Failed to generate OTP
+2023-11-12T07:15:10.593Z [ERROR] Failed to generate OTP
+2023-11-12T07:17:54.824Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T07:18:11.360Z [ERROR] Failed to generate OTP
+2023-11-12T07:18:11.364Z [ERROR] Failed to generate OTP
+2023-11-12T07:29:54.269Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T07:29:55.726Z [ERROR] Failed to generate OTP
+2023-11-12T07:29:55.728Z [ERROR] Failed to generate OTP
+2023-11-12T07:33:07.699Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T07:33:35.305Z [ERROR] Failed to generate OTP
+2023-11-12T07:33:35.307Z [ERROR] Failed to generate OTP
+2023-11-12T07:36:40.470Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T07:36:50.513Z [INFO] Generated OTP 319797 for utkarshg494@gmail.com
+2023-11-12T07:36:52.658Z [ERROR] Failed to send OTP to utkarshg494@gmail.com
+2023-11-12T07:36:52.660Z [ERROR] Failed to generate OTP
+2023-11-12T07:39:38.206Z [INFO] Generated OTP 631545 for utkarshg494@gmail.com
+2023-11-12T07:39:39.321Z [ERROR] Failed to send OTP to utkarshg494@gmail.com
+2023-11-12T07:39:39.323Z [ERROR] Failed to generate OTP
+2023-11-12T07:41:28.959Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T07:41:33.594Z [ERROR] Failed to generate OTP
+2023-11-12T07:41:33.596Z [ERROR] Failed to generate OTP
+2023-11-12T07:41:54.417Z [ERROR] Failed to generate OTP
+2023-11-12T07:41:54.420Z [ERROR] Failed to generate OTP
+2023-11-12T07:43:07.414Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T07:43:07.645Z [ERROR] Failed to generate OTP
+2023-11-12T07:43:07.648Z [ERROR] Failed to generate OTP
+2023-11-12T07:45:13.974Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T07:45:18.829Z [INFO] Generated OTP 312133 for utkarshg44@gmail.com
+2023-11-12T07:45:20.230Z [ERROR] Failed to send OTP to utkarshg44@gmail.com
+2023-11-12T07:45:20.232Z [ERROR] Failed to generate OTP
+2023-11-12T07:51:48.546Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T07:51:52.595Z [INFO] Generated OTP 754951 for utkarshg44@gmail.com
+2023-11-12T07:51:54.769Z [ERROR] Failed to send OTP to utkarshg44@gmail.com
+2023-11-12T07:51:54.772Z [ERROR] Failed to generate OTP
+2023-11-12T08:05:12.713Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T08:05:59.317Z [INFO] Generated OTP 321632 for utkarshg494@gmail.com
+2023-11-12T08:06:00.736Z [ERROR] Failed to send OTP to utkarshg494@gmail.com
+2023-11-12T08:06:00.739Z [ERROR] Failed to generate OTP
+2023-11-12T08:06:27.417Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T08:06:27.981Z [INFO] Generated OTP 098326 for utkarshg494@gmail.com
+2023-11-12T08:06:30.666Z [ERROR] Failed to send OTP to utkarshg494@gmail.com
+2023-11-12T08:06:30.668Z [ERROR] Failed to generate OTP
+2023-11-12T08:07:29.106Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T08:07:31.024Z [INFO] Generated OTP 473319 for utkarshg494@gmail.com
+2023-11-12T08:08:02.719Z [ERROR] Failed to send OTP to utkarshg494@gmail.com
+2023-11-12T08:08:02.721Z [ERROR] Failed to generate OTP
+2023-11-12T08:08:30.626Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T08:08:33.592Z [INFO] Generated OTP 285359 for utkarshg494@gmail.com
+2023-11-12T08:08:35.922Z [ERROR] Failed to send OTP to utkarshg494@gmail.com
+2023-11-12T08:08:35.925Z [ERROR] Failed to generate OTP
+2023-11-12T08:08:49.328Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T08:09:01.132Z [INFO] Generated OTP 080470 for utkarshgupta954402@gmail.com
+2023-11-12T08:09:02.932Z [ERROR] Failed to send OTP to utkarshgupta954402@gmail.com
+2023-11-12T08:09:02.934Z [ERROR] Failed to generate OTP
+2023-11-12T08:10:01.759Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T08:10:20.593Z [INFO] Generated OTP 003310 for utkarshgupta954402@gmail.com
+2023-11-12T08:10:22.292Z [ERROR] Failed to send OTP to utkarshgupta954402@gmail.com
+2023-11-12T08:10:22.295Z [ERROR] Failed to generate OTP
+2023-11-12T08:10:48.679Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T08:10:51.086Z [INFO] Generated OTP 997398 for utkarshgupta954402@gmail.com
+2023-11-12T08:10:53.456Z [ERROR] Failed to send OTP to utkarshgupta954402@gmail.com
+2023-11-12T08:10:53.458Z [ERROR] Failed to generate OTP
+2023-11-12T08:11:41.568Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T08:12:00.570Z [INFO] Generated OTP 160247 for utkarshg494@gmail.com
+2023-11-12T08:12:31.934Z [ERROR] Failed to send OTP to utkarshg494@gmail.com
+2023-11-12T08:12:31.936Z [ERROR] Failed to generate OTP
+2023-11-12T08:16:17.671Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T08:16:19.830Z [INFO] Generated OTP 304750 for utkarshg494@gmail.com
+2023-11-12T08:16:53.261Z [ERROR] Failed to send OTP to utkarshg494@gmail.com
+2023-11-12T08:16:53.264Z [ERROR] Failed to generate OTP
+2023-11-12T08:20:11.929Z [INFO] Generated OTP 918195 for utkarshg494@gmail.com
+2023-11-12T08:20:14.534Z [ERROR] Failed to send OTP to utkarshg494@gmail.com
+2023-11-12T08:20:14.536Z [ERROR] Failed to generate OTP
+2023-11-12T08:21:15.299Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T08:21:19.331Z [INFO] Generated OTP 434895 for utkarshg494@gmail.com
+2023-11-12T08:21:21.165Z [ERROR] Failed to send OTP to utkarshg494@gmail.com
+2023-11-12T08:21:21.167Z [ERROR] Failed to generate OTP
+2023-11-12T08:22:42.402Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T08:22:43.077Z [INFO] Generated OTP 551575 for utkarshg494@gmail.com
+2023-11-12T08:22:45.114Z [ERROR] Failed to send OTP to utkarshg494@gmail.com
+2023-11-12T08:22:45.116Z [ERROR] Failed to generate OTP
+2023-11-12T08:25:26.319Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T08:25:45.791Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T08:25:50.889Z [INFO] Generated OTP 979110 for utkarshg494@gmail.com
+2023-11-12T08:25:53.757Z [ERROR] Failed to send OTP to utkarshg494@gmail.com
+2023-11-12T08:25:53.759Z [ERROR] Failed to generate OTP
+2023-11-12T08:26:17.236Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T08:26:18.705Z [INFO] Generated OTP 963920 for utkarshg494@gmail.com
+2023-11-12T08:26:21.124Z [ERROR] Failed to send OTP to utkarshg494@gmail.com
+2023-11-12T08:26:21.126Z [ERROR] Failed to generate OTP
+2023-11-12T08:27:42.157Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T08:27:43.418Z [INFO] Generated OTP 005119 for utkarshg494@gmail.com
+2023-11-12T08:28:15.892Z [ERROR] Failed to send OTP to utkarshg494@gmail.com
+2023-11-12T08:28:15.893Z [ERROR] Failed to generate OTP
+2023-11-12T08:29:15.009Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T08:29:32.861Z [INFO] Generated OTP 669337 for utkarshgupta954402@gmail.com
+2023-11-12T08:29:35.397Z [ERROR] Failed to send OTP to utkarshgupta954402@gmail.com
+2023-11-12T08:29:35.398Z [ERROR] Failed to generate OTP
+2023-11-12T08:35:15.669Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T08:35:20.299Z [INFO] Generated OTP 337654 for utkarshgupta954402@gmail.com
+2023-11-12T08:35:22.391Z [ERROR] Failed to send OTP to utkarshgupta954402@gmail.com
+2023-11-12T08:35:22.393Z [ERROR] Failed to generate OTP
+2023-11-12T08:38:03.450Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T08:38:09.940Z [INFO] Generated OTP 694143 for utkarshgupta954402@gmail.com
+2023-11-12T08:38:12.428Z [ERROR] Failed to send OTP to utkarshgupta954402@gmail.com
+2023-11-12T08:38:12.430Z [ERROR] Failed to generate OTP
+2023-11-12T08:39:37.468Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T08:39:38.935Z [INFO] Generated OTP 965919 for utkarshgupta954402@gmail.com
+2023-11-12T08:39:40.847Z [ERROR] Failed to send OTP to utkarshgupta954402@gmail.com
+2023-11-12T08:39:40.848Z [ERROR] Failed to generate OTP
+2023-11-12T08:41:14.191Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T08:41:18.395Z [INFO] Generated OTP 500023 for utkarshgupta954402@gmail.com
+2023-11-12T08:41:18.404Z [ERROR] Failed to send OTP to utkarshgupta954402@gmail.com
+2023-11-12T08:41:18.406Z [ERROR] Failed to generate OTP
+2023-11-12T08:41:50.258Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T08:41:50.576Z [INFO] Generated OTP 181186 for utkarshgupta954402@gmail.com
+2023-11-12T08:41:51.824Z [ERROR] Failed to send OTP to utkarshgupta954402@gmail.com
+2023-11-12T08:41:51.825Z [ERROR] Failed to generate OTP
+2023-11-12T08:46:36.713Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T08:46:38.719Z [INFO] Generated OTP 519395 for utkarshgupta954402@gmail.com
+2023-11-12T08:46:40.423Z [ERROR] Failed to send OTP to utkarshgupta954402@gmail.com
+2023-11-12T08:46:40.426Z [ERROR] Failed to generate OTP
+2023-11-12T08:50:10.015Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T08:50:14.642Z [INFO] Generated OTP 371967 for utkarshgupta954402@gmail.com
+2023-11-12T08:50:18.706Z [ERROR] Failed to send OTP to utkarshgupta954402@gmail.com
+2023-11-12T08:50:18.708Z [ERROR] Failed to generate OTP
+2023-11-12T08:53:59.772Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T08:54:03.543Z [INFO] Generated OTP 408456 for utkarshgupta954402@gmail.com
+2023-11-12T08:54:05.397Z [ERROR] Failed to send OTP to utkarshgupta954402@gmail.com
+2023-11-12T08:54:05.399Z [ERROR] Failed to generate OTP
+2023-11-12T08:58:20.842Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T08:58:45.324Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T08:59:23.763Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T09:01:03.030Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T10:43:13.518Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T10:45:26.898Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T10:51:02.321Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T10:52:28.434Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T10:54:11.211Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T10:54:56.922Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T11:02:01.749Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T11:05:20.713Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T11:05:42.734Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T11:06:48.809Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T11:08:37.620Z [INFO] Generated OTP 601588 for utkarshg494@gmail.com
+2023-11-12T11:08:40.067Z [ERROR] Failed to send OTP to utkarshg494@gmail.com
+2023-11-12T11:08:40.069Z [ERROR] Failed to generate OTP
+2023-11-12T11:09:42.809Z [INFO] Generated OTP 782332 for utkarshg494@gmail.com
+2023-11-12T11:09:45.820Z [ERROR] Failed to send OTP to utkarshg494@gmail.com
+2023-11-12T11:09:45.823Z [ERROR] Failed to generate OTP
+2023-11-12T11:12:09.985Z [INFO] Generated OTP 302506 for utkarshg494@gmail.com
+2023-11-12T11:12:13.433Z [ERROR] Failed to send OTP to utkarshg494@gmail.com
+2023-11-12T11:12:13.435Z [ERROR] Failed to generate OTP
+2023-11-12T11:13:05.604Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T11:13:24.332Z [INFO] Generated OTP 052304 for utkarshg494@gmail.com
+2023-11-12T11:13:28.079Z [ERROR] Failed to send OTP to utkarshg494@gmail.com
+2023-11-12T11:13:28.081Z [ERROR] Failed to generate OTP
+2023-11-12T11:15:04.648Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T11:15:06.120Z [INFO] Generated OTP 720505 for utkarshg494@gmail.com
+2023-11-12T11:15:07.470Z [ERROR] Failed to send OTP to utkarshg494@gmail.com
+2023-11-12T11:15:07.472Z [ERROR] Failed to generate OTP
+2023-11-12T11:15:36.084Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T11:15:37.206Z [INFO] Generated OTP 039987 for utkarshg494@gmail.com
+2023-11-12T11:15:40.744Z [ERROR] Failed to send OTP to utkarshg494@gmail.com
+2023-11-12T11:15:40.748Z [ERROR] Failed to generate OTP
+2023-11-12T11:16:31.539Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T11:16:34.640Z [INFO] Generated OTP 998265 for utkarshg494@gmail.com
+2023-11-12T11:16:37.887Z [ERROR] Failed to send OTP to utkarshg494@gmail.com
+2023-11-12T11:16:37.889Z [ERROR] Failed to generate OTP
+2023-11-12T11:22:10.485Z [INFO] Generated OTP 638817 for utkarshg494@gmail.com
+2023-11-12T11:22:13.388Z [ERROR] Failed to send OTP to utkarshg494@gmail.com
+2023-11-12T11:22:13.390Z [ERROR] Failed to generate OTP
+2023-11-12T11:24:26.518Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T11:24:30.888Z [INFO] Generated OTP 614383 for utkarshg494@gmail.com
+2023-11-12T11:24:34.229Z [ERROR] Failed to send OTP to utkarshg494@gmail.com
+2023-11-12T11:24:34.231Z [ERROR] Failed to generate OTP
+2023-11-12T11:27:23.539Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T11:27:32.764Z [INFO] Generated OTP 968507 for utkarshg494@gmail.com
+2023-11-12T11:27:35.939Z [ERROR] Failed to send OTP to utkarshg494@gmail.com
+2023-11-12T11:27:35.943Z [ERROR] Failed to generate OTP
+2023-11-12T11:28:06.163Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T11:28:17.439Z [INFO] Generated OTP 125415 for utkarshgupta954402@gmail.com
+2023-11-12T11:28:20.888Z [ERROR] Failed to send OTP to utkarshgupta954402@gmail.com
+2023-11-12T11:28:20.893Z [ERROR] Failed to generate OTP
+2023-11-12T11:28:48.924Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T11:28:50.719Z [INFO] Generated OTP 559572 for utkarshgupta954402@gmail.com
+2023-11-12T11:28:52.552Z [ERROR] Failed to send OTP to utkarshgupta954402@gmail.com
+2023-11-12T11:28:52.555Z [ERROR] Failed to generate OTP
+2023-11-12T11:29:35.668Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T11:29:38.637Z [INFO] Generated OTP 801193 for utkarshgupta954402@gmail.com
+2023-11-12T11:29:42.874Z [ERROR] Failed to send OTP to utkarshgupta954402@gmail.com
+2023-11-12T11:29:42.876Z [ERROR] Failed to generate OTP
+2023-11-12T11:30:40.020Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T11:30:41.643Z [INFO] Generated OTP 595231 for utkarshgupta954402@gmail.com
+2023-11-12T11:30:44.826Z [ERROR] Failed to send OTP to utkarshgupta954402@gmail.com
+2023-11-12T11:30:44.828Z [ERROR] Failed to generate OTP
+2023-11-12T11:31:02.602Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T11:34:21.925Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T11:34:24.386Z [INFO] Generated OTP 098042 for utkarshgupta954402@gmail.com
+2023-11-12T11:34:29.690Z [ERROR] Failed to send OTP to utkarshgupta954402@gmail.com
+2023-11-12T11:34:29.693Z [ERROR] Failed to generate OTP
+2023-11-12T11:35:13.473Z [INFO] Generated OTP 708973 for utkarshgupta954402@gmail.com
+2023-11-12T11:35:18.563Z [ERROR] Failed to send OTP to utkarshgupta954402@gmail.com
+2023-11-12T11:35:18.565Z [ERROR] Failed to generate OTP
+2023-11-12T11:44:40.402Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T11:44:54.407Z [INFO] Generated OTP 193087 for utkarshgupta954402@gmail.com
+2023-11-12T11:44:56.475Z [ERROR] Failed to send OTP to utkarshgupta954402@gmail.com
+2023-11-12T11:44:56.477Z [ERROR] Failed to generate OTP
+2023-11-12T11:45:36.685Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T11:45:48.607Z [INFO] Generated OTP 137901 for utkarshg4440@gmail.com
+2023-11-12T11:45:51.033Z [ERROR] Failed to send OTP to utkarshg4440@gmail.com
+2023-11-12T11:45:51.034Z [ERROR] Failed to generate OTP
+2023-11-12T11:56:19.573Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T11:56:21.848Z [INFO] Generated OTP 940139 for utkarshg4440@gmail.com
+2023-11-12T11:56:23.438Z [ERROR] Failed to send OTP to utkarshg4440@gmail.com
+2023-11-12T11:56:23.440Z [ERROR] Failed to generate OTP
+2023-11-12T11:56:28.940Z [INFO] Generated OTP 993289 for utkarshg4440@gmail.com
+2023-11-12T11:56:30.785Z [ERROR] Failed to send OTP to utkarshg4440@gmail.com
+2023-11-12T11:56:30.787Z [ERROR] Failed to generate OTP
+2023-11-12T11:59:08.381Z [INFO] Generated OTP 013489 for utkarshg4440@gmail.com
+2023-11-12T11:59:10.496Z [ERROR] Failed to send OTP to utkarshg4440@gmail.com
+2023-11-12T11:59:10.497Z [ERROR] Failed to generate OTP
+2023-11-12T12:00:15.123Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T12:00:44.242Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T12:00:59.395Z [INFO] Generated OTP 870301 for utkarshgupta954402@gmail.com
+2023-11-12T12:01:02.612Z [ERROR] Failed to send OTP to utkarshgupta954402@gmail.com
+2023-11-12T12:01:02.613Z [ERROR] Failed to generate OTP
+2023-11-12T12:20:37.425Z [INFO] Generated OTP 649944 for utkarshgupta954402@gmail.com
+2023-11-12T12:20:40.117Z [ERROR] Failed to send OTP to utkarshgupta954402@gmail.com
+2023-11-12T12:20:40.119Z [ERROR] Failed to generate OTP
+2023-11-12T12:28:49.788Z [INFO] Generated OTP 799526 for utkarshgupta954402@gmail.com
+2023-11-12T12:28:51.843Z [ERROR] Failed to send OTP to utkarshgupta954402@gmail.com
+2023-11-12T12:28:51.845Z [ERROR] Failed to generate OTP
+2023-11-12T13:23:52.089Z [INFO] Generated OTP 956005 for utkarshgupta954402@gmail.com
+2023-11-12T13:23:52.877Z [ERROR] Failed to send OTP to utkarshgupta954402@gmail.com
+2023-11-12T13:23:52.878Z [ERROR] Failed to generate OTP
+2023-11-12T13:34:35.022Z [INFO] Generated OTP 685852 for utkarshgupta954402@gmail.com
+2023-11-12T13:34:36.111Z [ERROR] Failed to generate OTP
+2023-11-12T13:34:36.110Z [ERROR] Failed to send OTP to utkarshgupta954402@gmail.com
+2023-11-12T13:35:20.822Z [INFO] Generated OTP 050967 for utkarshgupta954402@gmail.com
+2023-11-12T13:35:23.528Z [ERROR] Failed to send OTP to utkarshgupta954402@gmail.com
+2023-11-12T13:35:23.529Z [ERROR] Failed to generate OTP
+2023-11-12T16:26:07.486Z [INFO] Generated OTP 834253 for utkarshg494@gmail.com
+2023-11-12T16:26:09.773Z [ERROR] Failed to send OTP to utkarshg494@gmail.com
+2023-11-12T16:26:09.773Z [ERROR] Failed to generate OTP
+2023-11-12T16:26:37.071Z [INFO] Verified OTP 834253 for utkarshg494@gmail.com
+2023-11-12T16:35:05.887Z [ERROR] Failed to verify OTP
+2023-11-12T16:36:09.078Z [INFO] Generated OTP 355547 for utkarshgupta954402@gmail.com
+2023-11-12T16:36:11.128Z [ERROR] Failed to send OTP to utkarshgupta954402@gmail.com
+2023-11-12T16:36:11.129Z [ERROR] Failed to generate OTP
+2023-11-12T16:36:29.110Z [INFO] Verified OTP 355547 for utkarshgupta954402@gmail.com
+2023-11-12T16:38:50.128Z [ERROR] Invalid email
+2023-11-12T16:42:51.048Z [ERROR] Invalid email
+2023-11-12T16:44:52.072Z [INFO] Generated OTP 322705 for utkarshg88@gmail.com
+2023-11-12T16:44:53.360Z [ERROR] Failed to send OTP to utkarshg88@gmail.com
+2023-11-12T16:44:53.361Z [ERROR] Failed to generate OTP
+2023-11-12T16:45:09.678Z [INFO] Verified OTP 322705 for utkarshg88@gmail.com
+2023-11-12T16:47:37.021Z [ERROR] Failed to verify OTP
+2023-11-12T16:56:16.208Z [ERROR] Invalid email
+2023-11-12T16:57:03.473Z [ERROR] Invalid email
+2023-11-12T16:57:44.107Z [INFO] Generated OTP 086059 for utkarshgupta954402@gmail.com
+2023-11-12T16:57:45.476Z [ERROR] Failed to send OTP to utkarshgupta954402@gmail.com
+2023-11-12T16:57:45.477Z [ERROR] Failed to generate OTP
+2023-11-12T16:58:02.424Z [INFO] Verified OTP 086059 for utkarshgupta954402@gmail.com
+2023-11-12T17:01:13.431Z [ERROR] Failed to verify OTP
+2023-11-12T17:03:16.191Z [INFO] Generated OTP 350170 for utkarshg494@gmail.com
+2023-11-12T17:03:17.217Z [ERROR] Failed to generate OTP
+2023-11-12T17:03:17.217Z [ERROR] Failed to send OTP to utkarshg494@gmail.com
+2023-11-12T17:04:36.088Z [INFO] Verified OTP 350170 for utkarshg494@gmail.com
+2023-11-12T17:13:21.820Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T17:13:40.095Z [INFO] Generated OTP 987511 for utkarshgupta85@gmail.com
+2023-11-12T17:13:44.194Z [ERROR] Failed to send OTP to utkarshgupta85@gmail.com
+2023-11-12T17:13:44.196Z [ERROR] Failed to generate OTP
+2023-11-12T17:13:55.354Z [INFO] Verified OTP 987511 for utkarshgupta85@gmail.com
+2023-11-12T17:14:06.678Z [ERROR] Failed to verify OTP
+2023-11-12T17:14:12.670Z [ERROR] Failed to verify OTP
+2023-11-12T17:14:15.972Z [ERROR] Failed to verify OTP
+2023-11-12T17:14:43.036Z [ERROR] Failed to verify OTP
+2023-11-12T17:14:46.604Z [ERROR] Failed to verify OTP
+2023-11-12T17:14:58.416Z [ERROR] Failed to verify OTP
+2023-11-12T17:15:06.053Z [ERROR] Failed to verify OTP
+2023-11-12T17:15:21.203Z [ERROR] Failed to verify OTP
+2023-11-12T17:15:23.932Z [ERROR] Failed to verify OTP
+2023-11-12T17:18:53.094Z [ERROR] Failed to verify OTP
+2023-11-12T17:18:56.017Z [ERROR] Failed to verify OTP
+2023-11-12T17:44:12.238Z [ERROR] Failed to verify OTP
+2023-11-12T17:44:15.544Z [ERROR] Failed to verify OTP
+2023-11-12T17:44:18.893Z [ERROR] Failed to verify OTP
+2023-11-12T18:15:05.300Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T18:30:54.788Z [INFO] Generated OTP 620198 for utkarshgupta95440@gmail.com
+2023-11-12T18:30:58.451Z [ERROR] Failed to send OTP to utkarshgupta95440@gmail.com
+2023-11-12T18:30:58.453Z [ERROR] Failed to generate OTP
+2023-11-12T18:31:17.982Z [INFO] Verified OTP 620198 for utkarshgupta95440@gmail.com
+2023-11-12T18:36:07.579Z [ERROR] Failed to verify OTP
+2023-11-12T18:51:05.706Z [ERROR] MongoServerError: bad auth : authentication failed
+2023-11-12T18:55:01.542Z [ERROR] MongoServerError: bad auth : authentication failed
+2023-11-12T18:56:04.269Z [ERROR] MongoServerError: bad auth : authentication failed
+2023-11-12T18:58:34.352Z [ERROR] MongoServerError: bad auth : authentication failed
+2023-11-12T19:02:12.566Z [ERROR] MongoServerError: bad auth : authentication failed
+2023-11-12T19:03:45.531Z [ERROR] MongoServerError: bad auth : authentication failed
+2023-11-12T19:04:15.599Z [ERROR] Failed to generate OTP
+2023-11-12T19:04:15.601Z [ERROR] Failed to generate OTP
+2023-11-12T19:12:41.398Z [ERROR] MongoServerError: bad auth : authentication failed
+2023-11-12T19:17:58.913Z [ERROR] MongoServerError: bad auth : authentication failed
+2023-11-12T19:18:20.707Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T19:18:53.841Z [INFO] Generated OTP 818688 for utkarshgupta954402@gmail.com
+2023-11-12T19:18:56.850Z [ERROR] Failed to send OTP to utkarshgupta954402@gmail.com
+2023-11-12T19:18:56.852Z [ERROR] Failed to generate OTP
+2023-11-12T19:19:15.385Z [INFO] Verified OTP 818688 for utkarshgupta954402@gmail.com
+2023-11-12T19:20:26.390Z [INFO] Generated OTP 369341 for utkarshgupta954402@gmail.com
+2023-11-12T19:20:28.088Z [ERROR] Failed to send OTP to utkarshgupta954402@gmail.com
+2023-11-12T19:20:28.090Z [ERROR] Failed to generate OTP
+2023-11-12T19:20:59.003Z [INFO] Verified OTP 369341 for utkarshgupta954402@gmail.com
+2023-11-12T19:35:22.479Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T20:00:04.235Z [INFO] Generated OTP 557201 for utkarshgupta954402@gmail.com
+2023-11-12T20:00:05.594Z [ERROR] Failed to verify OTP
+2023-11-12T20:00:07.306Z [ERROR] Failed to send OTP to utkarshgupta954402@gmail.com
+2023-11-12T20:00:07.307Z [ERROR] Failed to generate OTP
+2023-11-12T20:00:23.383Z [INFO] Verified OTP 557201 for utkarshgupta954402@gmail.com
+2023-11-12T20:16:13.889Z [INFO] Generated OTP 117879 for utkarshg494@gmail.com
+2023-11-12T20:16:15.095Z [ERROR] Failed to send OTP to utkarshg494@gmail.com
+2023-11-12T20:16:15.096Z [ERROR] Failed to generate OTP
+2023-11-12T20:16:32.421Z [INFO] Verified OTP 117879 for utkarshg494@gmail.com
+2023-11-12T20:16:57.149Z [INFO] Generated OTP 796970 for utkarshg1234@gmail.com
+2023-11-12T20:16:59.068Z [ERROR] Failed to send OTP to utkarshg1234@gmail.com
+2023-11-12T20:16:59.070Z [ERROR] Failed to generate OTP
+2023-11-12T20:17:30.531Z [INFO] Verified OTP 796970 for utkarshg1234@gmail.com
+2023-11-12T20:19:05.770Z [INFO] Generated OTP 750259 for utkarshgupta954402@gmail.com
+2023-11-12T20:19:07.346Z [ERROR] Failed to send OTP to utkarshgupta954402@gmail.com
+2023-11-12T20:19:07.348Z [ERROR] Failed to generate OTP
+2023-11-12T20:19:23.305Z [INFO] Verified OTP 750259 for utkarshgupta954402@gmail.com
+2023-11-12T20:20:24.648Z [INFO] Generated OTP 390367 for utkarshg494@gmail.com
+2023-11-12T20:20:27.187Z [ERROR] Failed to generate OTP
+2023-11-12T20:20:27.186Z [ERROR] Failed to send OTP to utkarshg494@gmail.com
+2023-11-12T20:20:39.661Z [INFO] Verified OTP 390367 for utkarshg494@gmail.com
+2023-11-12T20:52:12.192Z [INFO] Generated OTP 843128 for utkarshg494@gmail.com
+2023-11-12T20:52:14.298Z [ERROR] Failed to send OTP to utkarshg494@gmail.com
+2023-11-12T20:52:14.299Z [ERROR] Failed to generate OTP
+2023-11-12T20:52:25.781Z [INFO] Verified OTP 843128 for utkarshg494@gmail.com
+2023-11-12T20:59:56.164Z [INFO] Generated OTP 658499 for utkarshgupta95440@gmail.com
+2023-11-12T20:59:59.296Z [ERROR] Failed to send OTP to utkarshgupta95440@gmail.com
+2023-11-12T20:59:59.298Z [ERROR] Failed to generate OTP
+2023-11-12T21:00:11.881Z [INFO] Verified OTP 658499 for utkarshgupta95440@gmail.com
+2023-11-12T21:04:16.868Z [INFO] Generated OTP 709741 for utkarshgupta954402@gmail.com
+2023-11-12T21:04:19.190Z [ERROR] Failed to send OTP to utkarshgupta954402@gmail.com
+2023-11-12T21:04:19.191Z [ERROR] Failed to generate OTP
+2023-11-12T21:04:29.176Z [INFO] Verified OTP 709741 for utkarshgupta954402@gmail.com
+2023-11-12T21:06:47.710Z [ERROR] Invalid email
+2023-11-12T21:07:21.484Z [INFO] Generated OTP 461685 for utkarshgupta954402@gmail.com
+2023-11-12T21:07:27.072Z [ERROR] Failed to send OTP to utkarshgupta954402@gmail.com
+2023-11-12T21:07:27.074Z [ERROR] Failed to generate OTP
+2023-11-12T21:07:31.930Z [INFO] Verified OTP 461685 for utkarshgupta954402@gmail.com
+2023-11-12T21:07:45.844Z [ERROR] Invalid email
+2023-11-12T21:12:38.738Z [INFO] 🚀 Connected to MongoDB
+2023-11-12T21:12:54.038Z [INFO] Generated OTP 747681 for utkarshg494@gmail.com
+2023-11-12T21:12:56.485Z [ERROR] Failed to send OTP to utkarshg494@gmail.com
+2023-11-12T21:12:56.487Z [ERROR] Failed to generate OTP
+2023-11-13T08:09:44.421Z [INFO] Generated OTP 434619 for utkarshg494@gmail.com
+2023-11-13T08:09:46.460Z [ERROR] Failed to send OTP to utkarshg494@gmail.com
+2023-11-13T08:09:46.461Z [ERROR] Failed to generate OTP
+2023-11-13T08:09:55.310Z [ERROR] Failed to verify OTP
+2023-11-13T08:09:56.542Z [ERROR] Failed to verify OTP
+2023-11-13T08:10:13.263Z [INFO] Verified OTP 434619 for utkarshg494@gmail.com
+2023-11-13T08:17:13.020Z [INFO] 🚀 Connected to MongoDB
+2023-11-13T08:17:31.669Z [INFO] Generated OTP 716179 for utkarshgupta954402@gmail.com
+2023-11-13T08:17:33.712Z [ERROR] Failed to send OTP to utkarshgupta954402@gmail.com
+2023-11-13T08:17:33.714Z [ERROR] Failed to generate OTP
+2023-11-13T08:25:37.846Z [INFO] 🚀 Connected to MongoDB
+2023-11-13T08:25:55.382Z [INFO] Generated OTP 406609 for utkarshgupta954402@gmail.com
+2023-11-13T08:25:57.931Z [ERROR] Failed to send OTP to utkarshgupta954402@gmail.com
+2023-11-13T08:25:57.933Z [ERROR] Failed to generate OTP
+2023-11-13T08:29:29.152Z [INFO] 🚀 Connected to MongoDB
+2023-11-13T09:33:26.372Z [INFO] 🚀 Connected to MongoDB
+2023-11-13T09:33:48.715Z [INFO] Generated OTP 950522 for utkarshgupta954402@gmail.com
+2023-11-13T09:33:59.787Z [INFO] Sent OTP to utkarshgupta954402@gmail.com
+2023-11-13T09:59:32.056Z [INFO] Generated OTP 597980 for utkarshgupta954402@gmail.com
+2023-11-13T09:59:39.306Z [INFO] Sent OTP to utkarshgupta954402@gmail.com
+2023-11-13T10:00:20.927Z [INFO] 🚀 Connected to MongoDB
+2023-11-13T10:00:25.840Z [INFO] OTP 597980 already exists for utkarshgupta954402@gmail.com
+2023-11-13T10:00:33.660Z [INFO] Sent OTP to utkarshgupta954402@gmail.com
+2023-11-13T10:01:01.555Z [INFO] Verified OTP 597980 for utkarshgupta954402@gmail.com

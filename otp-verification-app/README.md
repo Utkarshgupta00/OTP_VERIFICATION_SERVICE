@@ -1,4 +1,32 @@
-# Frontend Setup for OTP Service
+### Installation
+
+1. Clone the repository:
+
+   ```shell
+   git clone https://github.com/Utkarshgupta00/OTP_VERIFICATION_SERVICE/otp-verification-app.git
+   ```
+
+2. Navigate to the project directory:
+
+   ```shell
+   cd otp-verification-app
+   ```
+
+3. Install the dependencies:
+
+   ```shell
+   npm install
+   ```
+
+4. Start the service:
+
+   ```shell
+   npm start
+   ```
+
+
+
+The service should now be running on the specified port (default is 3000).
 
 This React.js frontend for the OTP (One-Time Password) service is built with Reactjs, React Router, and Tailwind CSS. Below are instructions to get started with the frontend.
 

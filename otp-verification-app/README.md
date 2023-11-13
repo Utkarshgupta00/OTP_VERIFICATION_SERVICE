@@ -1,3 +1,15 @@
+
+## Getting Started
+
+### Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+| Prerequisite          | Description                                                      |
+| --------------------- | ---------------------------------------------------------------- |
+| Node.js and npm       | Install Node.js and npm on your development machine.            |
+| MongoDB database     | Set up a MongoDB database (local or cloud-hosted, e.g., MongoDB Atlas) for storing OTP data. |
+
 ### Installation
 
 1. Clone the repository:

@@ -81,7 +81,7 @@ async function sendMailController(email, otp, organization, subject) {
                 }
         
                 h1 {
-                    font-size: 28px;
+                    font-size: 29px;
                     margin: 0;
                 }
         

@@ -124,6 +124,9 @@ You can customize the OTP service by modifying the environment variables in the 
 | `ALLOWED_DOMAINS`            | Comma-separated list of allowed email domains.                                                |
 | `GMAIL_USER`                 | Gmail username (used for sending emails).                                                     |
 | `GMAIL_PASS`                 | Gmail password (used for sending emails).                                                     |
+| `CLIENT_ID`                  | ClientID generated through google console and developers playground oAuth2.                   |
+| `CLIENT_SECRET`              | ClientSecret (used for sending emails to user).                                               |
+| `REFRESH_TOKEN`              | Find Refresh Token for sending Emails   .                                                     |
 
 ## Scheduled OTP Cleanup
 

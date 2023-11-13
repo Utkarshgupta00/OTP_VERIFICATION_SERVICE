@@ -1,3 +1,14 @@
+## Features
+
+| Feature                                      | Description                                                                                                                                                           |
+| -------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Enter Email | The user is informed about the validation of the Email and if Email is valid User Navigates to the Verify OTP page.   |
+| Generate OTP                         | Navigate to the "Generate OTP" section, Enter your email address, Click the "Generate OTP" button                                                                                                    |
+| VerifyOTP                         | Navigate to the "Verify OTP" section, Enter the OTP received in your email, Click the "Verify OTP" button.                                                                                                    |
+| User Input         | Enter the OTP received via email in the input field.                                                                                                               |
+| Verification Result        |The user is informed about the success or failure of the OTP verification process.                                                                                                              |
+
+ 
 
 ## Getting Started
 
@@ -38,52 +49,6 @@ Before you begin, ensure you have met the following requirements:
 
 
 
-The service should now be running on the specified port (default is 3000).
-
-This React.js frontend for the OTP (One-Time Password) service is built with Reactjs, React Router, and Tailwind CSS. Below are instructions to get started with the frontend.
-
-## Functionality
-#### Generate OTP
-
-Navigate to the "Generate OTP" section.
-Enter your email address.
-Click the "Generate OTP" button.
-
-Workflow
-User Input:
-Enter a valid email address in the designated input field.
-
-### OTP Generation:
-
-Upon clicking "Generate OTP," the frontend sends a request to the /api/otp/generate endpoint.
-The backend generates an OTP and sends it to the provided email address using a predefined mail template.
-User Notification:
-
-A notification is displayed to inform the user that the OTP has been generated and sent to their email.
-Navigation:
-
-The user is automatically redirected to the "Verify OTP" section.
-
-#### VerifyOTP .
-
-Navigate to the "Verify OTP" section.
-Enter the OTP received in your email.
-Click the "Verify OTP" button.
-
-Workflow
-User Input:
-Enter the OTP received via email in the input field.
-
-## OTP Verification:
-The frontend sends a request to the /api/otp/verify endpoint with the entered OTP.
-The backend validates the received OTP.
-
-Verification Result:
-If the OTP is valid, a success message is displayed.
-If the OTP is invalid, an error message is displayed.
-User Notification:
-
-# The user is informed about the success or failure of the OTP verification process.
 
 Note
 State Management:

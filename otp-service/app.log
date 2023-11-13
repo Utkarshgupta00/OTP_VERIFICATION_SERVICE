@@ -468,3 +468,14 @@
 2023-11-13T10:00:25.840Z [INFO] OTP 597980 already exists for utkarshgupta954402@gmail.com
 2023-11-13T10:00:33.660Z [INFO] Sent OTP to utkarshgupta954402@gmail.com
 2023-11-13T10:01:01.555Z [INFO] Verified OTP 597980 for utkarshgupta954402@gmail.com
+2023-11-13T11:49:32.784Z [INFO] 🚀 Connected to MongoDB
+2023-11-13T11:50:14.919Z [INFO] Generated OTP 413379 for utkarshgupta954402@gmail.com
+2023-11-13T11:50:19.526Z [INFO] Sent OTP to utkarshgupta954402@gmail.com
+2023-11-13T11:50:47.111Z [INFO] Verified OTP 413379 for utkarshgupta954402@gmail.com
+2023-11-13T11:52:10.266Z [INFO] Generated OTP 579884 for utkarshgupta954402@gmail.com
+2023-11-13T11:52:14.618Z [INFO] Sent OTP to utkarshgupta954402@gmail.com
+2023-11-13T11:52:40.231Z [INFO] Verified OTP 579884 for utkarshgupta954402@gmail.com
+2023-11-13T11:52:41.298Z [ERROR] Failed to verify OTP
+2023-11-13T11:54:08.172Z [INFO] Generated OTP 294705 for utkarshg494@gmail.com
+2023-11-13T11:54:12.185Z [INFO] Sent OTP to utkarshg494@gmail.com
+2023-11-13T11:54:35.510Z [INFO] Verified OTP 294705 for utkarshg494@gmail.com

@@ -26,11 +26,8 @@ const GenerateOTP = () => {
       }
 
       showNotification(`OTP send to email ${email}`, 'green');
-      // Navigate to VerifyOTP page with email as a query parameter
-      setTimeout(()=>{
-          navigate(`/verify?email=${email}`);
-      },2000)
-      
+
+
 
       const response = await fetch('http://localhost:3000/api/otp/generate', {
         method: 'POST',
@@ -39,6 +36,11 @@ const GenerateOTP = () => {
         },
         body: JSON.stringify({ email }),
       });
+
+      // Navigate to VerifyOTP page with email as a query parameter
+      setTimeout(() => {
+        navigate(`/verify?email=${email}`);
+      }, 2000)
 
       if (!response.ok) {
         console.error('Failed to generate OTP. Status:', response.status);
@@ -76,9 +78,8 @@ const GenerateOTP = () => {
         />
         <button
           onClick={handleGenerateOTP}
-          className={`w-full bg-blue-500 text-white p-2 py-3 font-extrabold rounded ${
-            loading ? 'opacity-50 cursor-not-allowed' : 'hover:bg-blue-700'
-          }`}
+          className={`w-full bg-blue-500 text-white p-2 py-3 font-extrabold rounded ${loading ? 'opacity-50 cursor-not-allowed' : 'hover:bg-blue-700'
+            }`}
           disabled={loading}
         >
           {loading ? 'Generating OTP...' : 'Generate OTP'}
@@ -86,9 +87,8 @@ const GenerateOTP = () => {
         <div className="mt-4 fixed top-1 rounded-full  w-[300px]">
           {notification && (
             <div
-              className={`text-white px-4 py-2 rounded ${
-                notification.color === 'green' ? 'bg-green-500' : 'bg-red-500'
-              }`}
+              className={`text-white px-4 py-2 rounded ${notification.color === 'green' ? 'bg-green-500' : 'bg-red-500'
+                }`}
             >
               {notification.message}
             </div>

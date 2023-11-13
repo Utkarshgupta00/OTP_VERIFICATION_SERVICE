@@ -4,7 +4,7 @@ This React.js frontend for the OTP (One-Time Password) service is built with Rea
 
 ## Functionality
 #### Generate OTP
-Usage.
+
 Navigate to the "Generate OTP" section.
 Enter your email address.
 Click the "Generate OTP" button.
@@ -26,7 +26,6 @@ The user is automatically redirected to the "Verify OTP" section.
 
 #### VerifyOTP .
 
-Usage.
 Navigate to the "Verify OTP" section.
 Enter the OTP received in your email.
 Click the "Verify OTP" button.
